@@ -1,0 +1,66 @@
+{
+  "seller": [
+    {
+      "id": "cd76",
+      "name": "pranoy premlal",
+      "email": "pranoy@seller.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "d876",
+      "name": "sam premlal",
+      "email": "sam@seller.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "a8b1",
+      "name": "tony",
+      "password": "abc@123",
+      "email": "tony@test.com"
+    },
+    {
+      "id": "d9b8",
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com"
+    },
+    {
+      "id": "a6e4",
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com"
+    },
+    {
+      "id": "afd9",
+      "name": "alena",
+      "password": "abc@123",
+      "email": "alena@test.com"
+    },
+    {
+      "id": "1456",
+      "name": "anil",
+      "password": "abc@123",
+      "email": "anil@test.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "f1fe",
+      "name": "samsung s40",
+      "price": "23000",
+      "color": "black",
+      "category": "mobile",
+      "description": "samsung mob",
+      "image": "https://images.samsung.com/in/smartphones/galaxy-s23-ultra/buy/product_color_green.png"
+    },
+    {
+      "id": "896a",
+      "name": "iphone 15",
+      "price": "100000",
+      "color": "grey",
+      "category": "mobile",
+      "description": "Apple Iphone",
+      "image": "https://cdn.mos.cms.futurecdn.net/yDn3ZSXu9eSBxmXQDZ4PCF.jpg"
+    }
+  ]
+}
