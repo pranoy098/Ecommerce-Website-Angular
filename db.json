@@ -89,5 +89,19 @@
       "description": "Lenovo Laptop",
       "image": "https://rukminim2.flixcart.com/image/850/1000/knni7ww0/computer/0/b/x/na-thin-and-light-laptop-lenovo-original-imag2ah6zyy4f6vt.jpeg"
     }
+  ],
+  "users": [
+    {
+      "id": "6eb6",
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "1234"
+    },
+    {
+      "id": "7bb9",
+      "name": "bruce",
+      "email": "bruce@user.com",
+      "password": "1234"
+    }
   ]
 }
