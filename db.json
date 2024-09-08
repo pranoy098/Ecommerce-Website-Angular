@@ -103,5 +103,67 @@
       "email": "bruce@user.com",
       "password": "1234"
     }
+  ],
+  "cart": [
+    {
+      "id": "f4f0",
+      "name": "samsung s40",
+      "price": "40000",
+      "color": "grey",
+      "category": "mobile",
+      "description": "samsung s40 mob",
+      "image": "https://cdn.mos.cms.futurecdn.net/qUaKQ3tLp9kz77mNJswNw5.jpg",
+      "quantity": 1,
+      "productId": "228c",
+      "userId": null
+    },
+    {
+      "id": "0efb",
+      "name": "macbook 13",
+      "price": "80000",
+      "color": "grey",
+      "category": "latop",
+      "description": "macbook laptop",
+      "image": "https://images.news18.com/ibnlive/uploads/2023/10/macbook-air-m1-2023-10-c3ced763eda4931bd195f9e7ff255169-3x2.jpg",
+      "quantity": 1,
+      "userId": "6eb6",
+      "productId": "bc56"
+    },
+    {
+      "id": "6261",
+      "name": "samsung s40",
+      "price": "40000",
+      "color": "grey",
+      "category": "mobile",
+      "description": "samsung s40 mob",
+      "image": "https://cdn.mos.cms.futurecdn.net/qUaKQ3tLp9kz77mNJswNw5.jpg",
+      "quantity": 2,
+      "userId": "6eb6",
+      "productId": "228c"
+    },
+    {
+      "id": "e10f",
+      "name": "samsung s40",
+      "price": "40000",
+      "color": "grey",
+      "category": "mobile",
+      "description": "samsung s40 mob",
+      "image": "https://cdn.mos.cms.futurecdn.net/qUaKQ3tLp9kz77mNJswNw5.jpg",
+      "quantity": 2,
+      "userId": "6eb6",
+      "productId": "228c"
+    },
+    {
+      "id": "eab1",
+      "name": "iphone 15",
+      "price": "100009",
+      "color": "grey",
+      "category": "mobile",
+      "description": "Apple Iphone",
+      "image": "https://cdn.mos.cms.futurecdn.net/yDn3ZSXu9eSBxmXQDZ4PCF.jpg",
+      "quantity": 1,
+      "userId": "6eb6",
+      "productId": "896a"
+    }
   ]
 }
