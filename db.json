@@ -118,52 +118,34 @@
       "userId": null
     },
     {
-      "id": "0efb",
-      "name": "macbook 13",
-      "price": "80000",
-      "color": "grey",
-      "category": "latop",
-      "description": "macbook laptop",
-      "image": "https://images.news18.com/ibnlive/uploads/2023/10/macbook-air-m1-2023-10-c3ced763eda4931bd195f9e7ff255169-3x2.jpg",
+      "id": "f763",
+      "name": "oneplus 7",
+      "price": "30000",
+      "color": "black",
+      "category": "mobile",
+      "description": "oneplus 7 mobile",
+      "image": "https://img.cdnx.in/315522/1705997592547_73.jpeg",
       "quantity": 1,
       "userId": "6eb6",
-      "productId": "bc56"
+      "productId": "8627"
+    }
+  ],
+  "orders": [
+    {
+      "id": "0ce9",
+      "email": "pranoy669@gmail.com",
+      "address": "601 sai vihar, near tarte office, p&t colony road, gandhinagar,dombivili east",
+      "contact": "08169345085",
+      "totalPrice": 340109,
+      "userId": "6eb6"
     },
     {
-      "id": "6261",
-      "name": "samsung s40",
-      "price": "40000",
-      "color": "grey",
-      "category": "mobile",
-      "description": "samsung s40 mob",
-      "image": "https://cdn.mos.cms.futurecdn.net/qUaKQ3tLp9kz77mNJswNw5.jpg",
-      "quantity": 2,
-      "userId": "6eb6",
-      "productId": "228c"
-    },
-    {
-      "id": "e10f",
-      "name": "samsung s40",
-      "price": "40000",
-      "color": "grey",
-      "category": "mobile",
-      "description": "samsung s40 mob",
-      "image": "https://cdn.mos.cms.futurecdn.net/qUaKQ3tLp9kz77mNJswNw5.jpg",
-      "quantity": 2,
-      "userId": "6eb6",
-      "productId": "228c"
-    },
-    {
-      "id": "eab1",
-      "name": "iphone 15",
-      "price": "100009",
-      "color": "grey",
-      "category": "mobile",
-      "description": "Apple Iphone",
-      "image": "https://cdn.mos.cms.futurecdn.net/yDn3ZSXu9eSBxmXQDZ4PCF.jpg",
-      "quantity": 1,
-      "userId": "6eb6",
-      "productId": "896a"
+      "id": "4460",
+      "email": "pranoy669@gmail.com",
+      "address": "601 sai vihar, near tarte office, p&t colony road, gandhinagar,dombivili east",
+      "contact": "08169345085",
+      "totalPrice": 340109,
+      "userId": "6eb6"
     }
   ]
 }
